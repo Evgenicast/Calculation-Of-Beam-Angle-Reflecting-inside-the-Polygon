@@ -1,0 +1,2 @@
+#include "MyFigure.h"
+

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../build-MyRayTracingInsidePolygon-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/ex1.png</file>
+        <file>../build-MyRayTracingInsidePolygon-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/ex2.png</file>
+    </qresource>
+</RCC>
